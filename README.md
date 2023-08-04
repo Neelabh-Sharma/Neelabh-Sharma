@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelabh-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="neelabh-sharma" /> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **neelabhsharma2002@gmail.com**
 
